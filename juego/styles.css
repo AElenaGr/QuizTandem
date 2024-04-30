@@ -1,0 +1,74 @@
+/* Fuente bonita y degradado suave de fondo */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #f0f0f0, #e0e0e0, #f0f0f0); /* Fondo en degradado de tres colores */
+  border-top: 5px solid #c78585; /* Línea gruesa en la parte superior */
+}
+
+/* Estilos para el contenedor principal del quiz */
+#quiz-container {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #c78585;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el contenedor de preguntas */
+#question-container {
+  margin-bottom: 20px;
+}
+
+/* Estilos para el título */
+h1 {
+  text-align: center;
+  color: #333;
+  transition: color 0.3s ease; /* Transición de color suave */
+}
+
+/* Efecto de cambio de color al pasar el ratón sobre el título */
+h1:hover {
+  color: #007bff; /* Cambio de color al azul */
+}
+
+/* Estilos para las etiquetas */
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Estilos para los botones */
+#hint-btn {
+  display: block;
+  margin: 0 auto 20px; /* Añadido espacio en la parte inferior */
+  background-color: #43df4b;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Transición de color suave */
+}
+
+/* Efecto de cambio de color al pasar el ratón sobre el botón */
+#hint-btn:hover {
+  background-color: #5fb855;
+}
+
+/* Estilos para las imágenes dentro de las preguntas */
+.question img {
+  max-width: 100%; /* Esto asegura que la imagen no exceda el ancho del contenedor */
+  height: auto; /* Esto permite que la altura se ajuste proporcionalmente al ancho */
+}
+
+/* Estilos para el texto de pista */
+.pista {
+  color: #c78585; /* Color de texto por defecto */
+  transition: color 0.3s ease; /* Transición suave */
+}
+
+/* Cambio de color al pasar el ratón sobre el texto de pista */
+.pista:hover {
+  color: #fff; /* Color de texto al pasar el ratón por encima */
+}

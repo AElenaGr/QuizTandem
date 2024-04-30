@@ -1,0 +1,242 @@
+{
+  "title": "Paseo por el casco viejo de Aranjuez",
+  "id_test": "",
+  "description": "Un paseo de una hora por los monumentos más representativos de Aranjuez",
+  "author": "Andra E.G.",
+  "img_feature": {
+    "url": "./img/plazaayutnamiento.jpg",
+    "alt": "Vista de la Plaza Mayor de Aranjuez"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿En qué año se construyó el Palacio Real de Aranjuez?",
+      "answers": {
+        "a": "1560",
+        "b": "1620",
+        "c": "1750",
+        "d": "1780"
+      },
+      "results": {
+        "a": false,
+        "b": false,
+        "c": false,
+        "d": true
+      },
+      "img_question": {
+        "url": "./img/palacioreal.jpg",
+        "alt": "Palacio Real de Aranjuez",
+        "desc": "Palacio Real de Aranjuez, residencia de la Familia Real Española"
+      },
+      "hint": "Fue construido durante el reinado de Carlos III",
+      "curiosity": "El Palacio Real de Aranjuez es uno de los principales ejemplos de la arquitectura del siglo XVIII en España"
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el estilo arquitectónico predominante en el Jardín del Príncipe?",
+      "answers": {
+        "a": "Renacentista",
+        "b": "Barroco",
+        "c": "Neoclásico",
+        "d": "Romántico"
+      },
+      "results": {
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+      },
+      "img_question": {
+        "url": "./img/jardindelprincipe.jpg",
+        "alt": "Jardín del Príncipe",
+        "desc": "Jardín del Príncipe, uno de los jardines históricos más importantes de España"
+      },
+      "hint": "Se caracteriza por la exuberancia y la simetría",
+      "curiosity": "El Jardín del Príncipe fue creado en el siglo XVIII por orden de Carlos IV"
+    },
+    {
+      "id": 3,
+      "question": "¿Quién fue el arquitecto principal del Palacio Real de Aranjuez?",
+      "answers": {
+        "a": "Juan de Herrera",
+        "b": "Juan Bautista de Toledo",
+        "c": "Juan de Villanueva",
+        "d": "Francesco Sabatini"
+      },
+      "results": {
+        "a": false,
+        "b": false,
+        "c": false,
+        "d": true
+      },
+      "img_question": {
+        "url": "./img/palacioreal.jpg",
+        "alt": "Palacio Real de Aranjuez",
+        "desc": "Palacio Real de Aranjuez, residencia de la Familia Real Española"
+      },
+      "hint": "Es conocido por su trabajo en la Plaza Mayor de Madrid",
+      "curiosity": "Francesco Sabatini también fue responsable de la remodelación de la Puerta de Alcalá en Madrid"
+    },
+    {
+      "id": 4,
+      "question": "¿Qué función tenía la Casa del Labrador?",
+      "answers": {
+        "a": "Residencia de la familia real",
+        "b": "Casa de campo",
+        "c": "Sede del gobierno",
+        "d": "Centro de investigación"
+      },
+      "results": {
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+      },
+      "img_question": {
+        "url": "./img/casadellabrador.jpg",
+        "alt": "Casa del Labrador",
+        "desc": "Casa del Labrador, ubicada en los jardines del Palacio Real de Aranjuez"
+      },
+      "hint": "Es una construcción rural destinada al ocio y la recreación",
+      "curiosity": "La Casa del Labrador fue construida durante el reinado de Carlos IV"
+    },
+    {
+      "id": 5,
+      "question": "¿En qué río se encuentra ubicado Aranjuez?",
+      "answers": {
+        "a": "Tajo",
+        "b": "Duero",
+        "c": "Guadalquivir",
+        "d": "Ebro"
+      },
+      "results": {
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": false
+      },
+      "img_question": {
+        "url": "./img/rioaranjuez.jpg",
+        "alt": "Río Tajo en Aranjuez",
+        "desc": "El río Tajo a su paso por Aranjuez"
+      },
+      "hint": "Es el río más largo de la península ibérica",
+      "curiosity": "El río Tajo nace en España y desemboca en Portugal"
+    },
+    {
+      "id": 6,
+      "question": "¿Qué edificio de Aranjuez es conocido como el 'Versalles español'?",
+      "answers": {
+        "a": "Palacio Real",
+        "b": "Casa del Labrador",
+        "c": "Jardín del Príncipe",
+        "d": "Casita del Infante"
+      },
+      "results": {
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": false
+      },
+      "img_question": {
+        "url": "./img/palacioreal.jpg",
+        "alt": "Palacio Real de Aranjuez",
+        "desc": "Palacio Real de Aranjuez, residencia de la Familia Real Española"
+      },
+      "hint": "Es uno de los principales atractivos turísticos de la ciudad",
+      "curiosity": "El Palacio Real de Aranjuez fue declarado Patrimonio de la Humanidad por la UNESCO en 2001"
+    },
+    {
+      "id": 7,
+      "question": "¿Qué famoso compositor dedicó una obra a Aranjuez?",
+      "answers": {
+        "a": "Wolfgang Amadeus Mozart",
+        "b": "Ludwig van Beethoven",
+        "c": "Johann Sebastian Bach",
+        "d": "Joaquín Rodrigo"
+      },
+      "results": {
+        "a": false,
+        "b": false,
+        "c": false,
+        "d": true
+      },
+      "img_question": {
+        "url": "./img/jardindelprincipe.jpg",
+        "alt": "Jardín del Príncipe",
+        "desc": "Jardín del Príncipe, uno de los jardines históricos más importantes de España"
+      },
+      "hint": "La obra es un concierto para guitarra y orquesta",
+      "curiosity": "El Concierto de Aranjuez de Joaquín Rodrigo es una de las piezas más conocidas del repertorio español para guitarra"
+    },
+    {
+      "id": 8,
+      "question": "¿Qué función tenía la Casa del Labrador?",
+      "answers": {
+        "a": "Residencia de la familia real",
+        "b": "Casa de campo",
+        "c": "Sede del gobierno",
+        "d": "Centro de investigación"
+      },
+      "results": {
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+      },
+      "img_question": {
+        "url": "./img/casadellabrador.jpg",
+        "alt": "Casa del Labrador",
+        "desc": "Casa del Labrador, ubicada en los jardines del Palacio Real de Aranjuez"
+      },
+      "hint": "Es una construcción rural destinada al ocio y la recreación",
+      "curiosity": "La Casa del Labrador fue construida durante el reinado de Carlos IV"
+    },
+    {
+      "id": 9,
+      "question": "¿Cuál es el edificio más antiguo de Aranjuez?",
+      "answers": {
+        "a": "Iglesia de San Antonio",
+        "b": "Casa del Labrador",
+        "c": "Convento de San Pascual",
+        "d": "Palacio Real"
+      },
+      "results": {
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": false
+      },
+      "img_question": {
+        "url": "./img/iglesiadesanantonio.jpg",
+        "alt": "Iglesia de San Antonio",
+        "desc": "Iglesia de San Antonio de Aranjuez, construida en el siglo XVI"
+      },
+      "hint": "Fue construida en el siglo XVI",
+      "curiosity": "La Iglesia de San Antonio alberga importantes obras de arte religioso"
+    },
+    {
+      "id": 10,
+      "question": "¿Qué función tenía la Casa del Labrador?",
+      "answers": {
+        "a": "Residencia de la familia real",
+        "b": "Casa de campo",
+        "c": "Sede del gobierno",
+        "d": "Centro de investigación"
+      },
+      "results": {
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+      },
+      "img_question": {
+        "url": "./img/casadellabrador.jpg",
+        "alt": "Casa del Labrador",
+        "desc": "Casa del Labrador, ubicada en los jardines del Palacio Real de Aranjuez"
+      },
+      "hint": "Es una construcción rural destinada al ocio y la recreación",
+      "curiosity": "La Casa del Labrador fue construida durante el reinado de Carlos IV"
+    }
+  ]
+}
